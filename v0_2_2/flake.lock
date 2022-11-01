@@ -39,10 +39,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-sliceutils-master": "src-sliceutils-master"
+        "src-sliceutils-v0_2_2": "src-sliceutils-v0_2_2"
       }
     },
-    "src-sliceutils-master": {
+    "src-sliceutils-v0_2_2": {
       "flake": false,
       "locked": {
         "lastModified": 1663317944,
@@ -54,7 +54,7 @@
       },
       "original": {
         "owner": "metagn",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.2",
         "repo": "sliceutils",
         "type": "github"
       }
